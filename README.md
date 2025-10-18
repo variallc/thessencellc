@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/essenceoffuta" target="blank"><img src="https://img.shields.io/twitter/follow/essenceoffuta?logo=twitter&style=for-the-badge" alt="essenceoffuta" /></a> </p>
 
-- 🌱 I’m currently learning **Flutter, Java**
+- 🌱 I’m currently learning **Flutter, XML, Java**
 
 - 👯 I’m looking to collaborate on [Sui](https://github.com/gifted-g/sui)
 
