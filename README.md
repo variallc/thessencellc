@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Oluwagbemiga</h1>
-<h3 align="center">A passionate frontend developer from Nigeria 🇳🇬. Still learning Android development and it's basics too.</h3>
+<h3 align="center">A passionate frontend developer from Nigeria 🇳🇬. Nonstop learning Android development and it's workflows too.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thessencellc" alt="thessencellc" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/essenceoffuta" target="blank"><img src="https://img.shields.io/twitter/follow/essenceoffuta?logo=twitter&style=for-the-badge" alt="essenceoffuta" /></a> </p>
 
-- 🌱 I’m currently learning **Flutter, Java**
+- 🌱 I’m currently learning **Flutter, Java, XML**
 
 - 👯 I’m looking to collaborate on [Sui](https://github.com/gifted-g/sui)
 
